@@ -2,7 +2,7 @@
 
 Calculadora con funciones simples.
 Gerbaldo, Martin. Leg 16356-6
-
+Macchiaroli, Verónica. Leg 20687-6
 ## Comandos
 
 ```bash
