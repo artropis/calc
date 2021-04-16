@@ -1,6 +1,7 @@
 # Calc
 
 Calculadora con funciones simples.
+Gerbaldo, Martin. Leg 16356-6
 
 ## Comandos
 
