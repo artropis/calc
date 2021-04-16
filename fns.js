@@ -17,7 +17,10 @@ function res(a, b) {
     //retorna a-b, en ese orden. Agregado por Martin Gerbaldo
 }
 
-function mul(a, b) {}
+function mul(a, b){
+	//multiplicación de a y b, agregado por Verónica.
+	return a * b
+}
 
 function div(a, b) {
     // Tener en cuenta division por 0
