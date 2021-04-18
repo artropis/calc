@@ -33,6 +33,6 @@ function div(a, b) {
 
 function pow(a, b) {
     return a**b;
-    //retorna a^b. Agregado por Martin Gerbaldo
+    //retorna a^b. Agregado por Martin Gerbaldo.
 }
 module.exports = fns;
