@@ -1,8 +1,9 @@
 # Calc
 
 Calculadora con funciones simples.
-Gerbaldo, Martin. Leg 16356-6
-Macchiaroli, Verónica. Leg 20687-6
+# Gerbaldo, Martin. Leg 16356-6
+# Macchiaroli, Verónica. Leg 20687-6
+# Augusto Bertuzzi Gaspari Leg 26976
 ## Comandos
 
 ```bash
@@ -16,5 +17,3 @@ npm run start
 npm run test
 ```
 
-# Grupo ??
-# Augusto Bertuzzi Gaspari
