@@ -16,7 +16,8 @@ function loop() {
 
             const fn = fns[fnName];
 
-            readline.question("Ingrese 2 numeros: ", (numbers) => {
+            readline.question("Ingrese 2 numeros (separado por un espacio): ", (numbers) => {
+                //aclaracion de que los numeros se deben ingresar separado por un espacio. Modificado por Martin
                 const [a, b] = numbers.split(" ").map(Number);
                 console.log(fn(a, b));
                 loop();
